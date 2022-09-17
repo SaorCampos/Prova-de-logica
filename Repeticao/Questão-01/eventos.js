@@ -20,3 +20,4 @@ for (let n = 0; n < numeros.length; n++) {
 }
 
 document.write(soma);
+console.log(soma)
